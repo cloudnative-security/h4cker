@@ -14,3 +14,4 @@ Capture the flag (CTF) is a computer security competition that is designed for e
 * https://challenges.re
 * http://cryptopals.com
 * https://github.com/CTFd/CTFd
+* https://play.picoctf.org/practice
